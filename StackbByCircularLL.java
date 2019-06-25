@@ -1,9 +1,5 @@
 
 //-----------------------------------------------------
-// Author: Gülfem Akpýnar
-// ID: 55534353160
-// Assignment: 1
-// Question: 2
 // Description: This class defines a String stack by using circular linked-list
 //-----------------------------------------------------
 import java.util.Iterator;
